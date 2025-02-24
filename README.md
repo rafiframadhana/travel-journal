@@ -54,7 +54,7 @@ This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for more detai
 
 
 ## 📩 Contact  
-For any inquiries or suggestions, reach out via **your-email@example.com** or open an issue in the repository.  
+For any inquiries or suggestions, reach out via **rafiframadhana.cs@gmail.com** or open an issue in the repository.  
 
 ---
 
