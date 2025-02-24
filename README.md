@@ -48,7 +48,7 @@ To run **Travel Journal** locally, follow these steps:
 
 
 ## 📜 License  
-This project is **open-source** and available for modification. Feel free to contribute!  
+This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for more details!
 
 ---
 
